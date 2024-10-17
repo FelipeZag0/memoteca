@@ -9,7 +9,7 @@
     {
       "id": 2,
       "conteudo": "Estudando Angular",
-      "autoria": "Dev Alura",
+      "autoria": "Dev Felipe",
       "modelo": "modelo2"
     },
     {
@@ -17,6 +17,12 @@
       "conteudo": "Angular é o melhor",
       "autoria": "Zago",
       "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Testando função de editar",
+      "autoria": "Futuro F1rster",
+      "modelo": "modelo2",
+      "id": 4
     }
   ]
 }
