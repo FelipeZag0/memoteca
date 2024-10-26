@@ -1,28 +1,22 @@
 {
   "pensamentos": [
     {
-      "id": 1,
-      "conteudo": "Que bom que você veio",
-      "autoria": "Felipe",
-      "modelo": "modelo1"
-    },
-    {
-      "id": 2,
-      "conteudo": "Estudando Angular",
-      "autoria": "Dev Felipe",
+      "id": 3,
+      "conteudo": "Conheça a MEMOTECA, uma plataforma inovadora desenvolvida com Angular 14 e TypeScript, ideal para organizar e editar suas ideias, pensamentos e trechos favoritos em um mural interativo. Com um formulário simples e prático, adicione e personalize suas ideias ao seu estilo único.",
+      "autoria": "Zago",
       "modelo": "modelo2"
     },
     {
-      "id": 3,
-      "conteudo": "Angular é o melhor",
-      "autoria": "Zago",
-      "modelo": "modelo3"
+      "conteudo": "Busco novas oportunidades em desenvolvimento de software. Vamos conversar?",
+      "autoria": "Felipe Zago",
+      "modelo": "modelo3",
+      "id": 5
     },
     {
-      "conteudo": "Testando função de editar",
-      "autoria": "Futuro F1rster",
-      "modelo": "modelo2",
-      "id": 4
+      "conteudo": "Gostou? Curta, comente e compartilhe este projeto!",
+      "autoria": "Futuro Dev",
+      "modelo": "modelo1",
+      "id": 6
     }
   ]
 }
