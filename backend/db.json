@@ -4,24 +4,28 @@
       "id": 3,
       "conteudo": "Conheça a MEMOTECA, uma plataforma inovadora desenvolvida com Angular 14 e TypeScript, ideal para organizar e editar suas ideias, pensamentos e trechos favoritos em um mural interativo. Com um formulário simples e prático, adicione e personalize suas ideias ao seu estilo único.",
       "autoria": "Zago",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "conteudo": "Busco novas oportunidades em desenvolvimento de software. Vamos conversar?",
       "autoria": "Felipe Zago",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 5
     },
     {
       "conteudo": "Gostou? Curta, comente e compartilhe este projeto!",
       "autoria": "Futuro Dev",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 6
     },
     {
       "conteudo": "que a força esteja com voce",
       "autoria": "mestre yoda",
       "modelo": "modelo1",
+      "favorito": true,
       "id": 8
     }
   ]
