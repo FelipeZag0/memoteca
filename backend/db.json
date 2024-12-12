@@ -18,14 +18,14 @@
       "conteudo": "Gostou? Curta, comente e compartilhe este projeto!",
       "autoria": "Futuro Dev",
       "modelo": "modelo1",
-      "favorito": false,
+      "favorito": true,
       "id": 6
     },
     {
       "conteudo": "que a força esteja com voce",
       "autoria": "mestre yoda",
       "modelo": "modelo1",
-      "favorito": true,
+      "favorito": false,
       "id": 8
     }
   ]
