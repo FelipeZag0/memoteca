@@ -1,27 +1,72 @@
-# Memoteca
+# Memoteca - Bloco de Notas Web
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
+**Memoteca** é um projeto de gerenciamento de blocos de notas, onde os usuários podem criar, visualizar, editar e excluir notas de maneira fácil e intuitiva. Desenvolvido com **Angular 14**, este projeto é um exemplo prático de como construir uma aplicação web com funcionalidades CRUD (Criar, Ler, Atualizar e Deletar).
 
-## Development server
+## :memo: Funcionalidades
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Criar notas**: Adicione novas notas e registre ideias, lembretes ou qualquer tipo de anotação.
+- **Editar notas**: Atualize as notas existentes com novas informações.
+- **Visualizar notas**: Veja todas as notas armazenadas de forma clara e organizada.
+- **Excluir notas**: Apague notas que não são mais necessárias.
+- **Interface simples e intuitiva**: Pensado para ser fácil de usar, com uma navegação fluida.
 
-## Code scaffolding
+## :wrench: Tecnologias Utilizadas
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Angular 14**: Framework utilizado para construção da interface do usuário e gestão de estados da aplicação.
+- **TypeScript**: Linguagem que complementa o Angular, proporcionando tipagem estática e melhorias de produtividade.
+- **HTML5 & CSS3**: Estruturação e estilização da interface, criando uma experiência de usuário limpa e responsiva.
+- **LocalStorage**: Armazenamento das notas no navegador para persistência de dados.
 
-## Build
+## :rocket: Como rodar o projeto
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Requisitos
 
-## Running unit tests
+- **Node.js** (versão 14 ou superior)
+- **npm** (gerenciador de pacotes do Node)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Passos para rodar o projeto
 
-## Running end-to-end tests
+1. Clone o repositório para a sua máquina:
+    ```bash
+    git clone https://github.com/FelipeZag0/memoteca.git
+    ```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+2. Acesse a pasta do projeto:
+    ```bash
+    cd memoteca
+    ```
 
-## Further help
+3. Instale as dependências:
+    ```bash
+    npm install
+    ```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+4. Rode o servidor de desenvolvimento:
+    ```bash
+    ng serve
+    ```
+
+5. Abra o navegador e acesse:
+    ```
+    http://localhost:4200
+    ```
+
+## :thought_balloon: Objetivo do Projeto
+
+O objetivo deste projeto é fornecer um ambiente de aprendizado prático para quem está começando a trabalhar com Angular. Além de praticar os conceitos de **CRUD** (Criar, Ler, Atualizar, Deletar), o projeto serve como um modelo para entender como construir uma aplicação simples, porém funcional, com armazenamento local de dados. 
+
+## :star: Aprendizados
+
+- Construção de componentes e serviços em Angular.
+- Manipulação de dados no frontend utilizando **LocalStorage**.
+- Criação de formulários e validação de entradas.
+- Implementação de rotas para navegação entre páginas.
+- Utilização de conceitos de **Single Page Application** (SPA).
+
+## :memo: Licença
+
+Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+Se você gostou deste projeto, fique à vontade para dar um ⭐️ no repositório e contribuir com melhorias!
